@@ -1,0 +1,170 @@
+﻿//
+//
+//Microsoft
+//Cognitive Services
+//
+//APIs Documentation > API Reference
+//
+//    GET Search
+//
+//Web Search API - V5
+//Search
+//
+//Get web, image, news, & videos results for a given query.
+//Query parameters
+//q
+//count
+//offset
+//mkt
+//safesearch
+//Headers
+//Ocp-Apim-Subscription-Key
+//Request URL
+//
+//https://api.cognitive.microsoft.com/bing/v5.0/search?q="είναι εκθετικής πολυπλοκότητας"&count=7&offset=0
+//
+//HTTP request
+//
+//GET https://api.cognitive.microsoft.com/bing/v5.0/search?q="είναι εκθετικής πολυπλοκότητας"&count=7&offset=0 HTTP/1.1
+//Host: api.cognitive.microsoft.com
+//Ocp-Apim-Subscription-Key: ••••••••••••••••••••••••••••••••
+//
+//
+//Response status
+//
+//200 OK
+//Response latency
+//766 ms
+//Response content
+//
+//Vary: Accept-Encoding
+//BingAPIs-TraceId: 6F8D00325C5F448F8ED6844A70884A55
+//X-MSEdge-ClientID: 1929FC87F50B648834B4F604F45465E1
+//X-MSAPI-UserState: 197f
+//BingAPIs-Market: en-US
+//X-MSEdge-Ref: Ref A: 6F8D00325C5F448F8ED6844A70884A55 Ref B: BAYEDGE0407 Ref C: Mon May 15 06:32:28 2017 PST
+//apim-request-id: 427041d7-1b5e-48a2-8d21-3e978d2d7603
+//Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+//x-content-type-options: nosniff
+//Cache-Control: max-age=0, private
+//Date: Mon, 15 May 2017 13:32:28 GMT
+//P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+//Content-Length: 6656
+//Content-Type: application/json; charset=utf-8
+//Expires: Mon, 15 May 2017 13:31:27 GMT
+//
+{
+  "_type": "SearchResponse",
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=T4ATTK1cFqQ8bBBfn_Fwtm0Js-MbdmIiwJVWb9Nx8jM&v=1&r=https%3a%2f%2fwww.bing.com%2fsearch%3fq%3d%2522%25ce%25b5%25ce%25af%25ce%25bd%25ce%25b1%25ce%25b9%2b%25ce%25b5%25ce%25ba%25ce%25b8%25ce%25b5%25cf%2584%25ce%25b9%25ce%25ba%25ce%25ae%25cf%2582%2b%25cf%2580%25ce%25bf%25ce%25bb%25cf%2585%25cf%2580%25ce%25bb%25ce%25bf%25ce%25ba%25cf%258c%25cf%2584%25ce%25b7%25cf%2584%25ce%25b1%25cf%2582%2522&p=DevEx,5198.1",
+    "totalEstimatedMatches": 8,
+    "value": [
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.0",
+        "name": "10 Βασικά Στοιχεία Πολυπλοκότητας ‣ Σχεδίαση και Ανάλυση ...",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=7T5oCacwgj6ryR5pcHjuNfEpWNIuURn9OYXG24YoilQ&v=1&r=http%3a%2f%2frepfiles.kallipos.gr%2fhtml_books%2f4410%2fCh10.html&p=DevEx,5057.1",
+        "displayUrl": "repfiles.kallipos.gr › html_books › ... › Ch10.html",
+        "snippet": "... που για τυπικά προβλήματα είναι εκθετικής πολυπλοκότητας. Για παράδειγμα, ...",
+        "dateLastCrawled": "2017-04-28T21:25:00"
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.1",
+        "name": "Πώς αισθάνεστε; - Σελίδα 50 • Chat and fun!",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=WMEkFTIYErPjxf3VYIvHQxYZm-dfdEmKI36RYfqiEZM&v=1&r=http%3a%2f%2fcnf.e-steki.gr%2fshowthread.php%3fp%3d148539&p=DevEx,5067.1",
+        "displayUrl": "cnf.e-steki.gr › showthread.php?p=148539",
+        "snippet": "Πώς αισθάνεστε; The Chat & Fun Section ... Το e-steki είναι μια από τις μεγαλύτερες ελληνικές ..."
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.2",
+        "name": "Μεταγλωττιστές ΙΙ. Καταμερισμός καταχωρητών. Νικόλαος ...",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=k7eNJdG8v_M_HwXqnGTotP4AZKkHv85MuBYFRfnio_g&v=1&r=http%3a%2f%2fdocplayer.gr%2f11874998-Metaglottistes-ii-nkavv-uop-gr-katamerismos-katahoriton-nikolaos-kavvadias-nkavv-uop-gr-metaglottistes-ii.html&p=DevEx,5077.1",
+        "displayUrl": "docplayer.gr › 11874998-Metaglottistes-ii-nkavv-uop-gr-katamerismos...",
+        "snippet": "Μεταγλωττιστές ΙΙ Καταμερισμός καταχωρητών Νικόλαος Καββαδίας 01 Δεκεμβρίου 2010 Γενικά για ..."
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.3",
+        "name": "Συμβολή στη θεωρία προγραμματισμού εργασιών και εφαρμογές ...",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=2OLxDN7zyo_x-AcCVPPGnJekAA1p92vZvO-ONJXlVNk&v=1&r=http%3a%2f%2fdocplayer.gr%2f2347859-Symvoli-sti-theoria-programmatismoy-ergasion-kai-efarmoges-tis-stin-paragogi-kai-sto-perivallon.html&p=DevEx,5087.1",
+        "displayUrl": "docplayer.gr › 2347859-Symvoli-sti-theoria-programmatismoy-ergasion...",
+        "snippet": "Πανεπιστήμιο Πειραιώς Τμήμα Βιομηχανικής Διοίκησης και Τεχνολογίας Συμβολή στη θεωρία ..."
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.4",
+        "name": "Βασικά Στοιχεία Πολυπλοκότητας - PDF",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=H6fCntX29HuhmkPWFs-2JRmS3SaYsaRHuNnXuDHyxzE&v=1&r=http%3a%2f%2fdocplayer.gr%2f40627513-Vasika-stoiheia-polyplokotitas.html&p=DevEx,5097.1",
+        "displayUrl": "docplayer.gr › 40627513-Vasika-stoiheia-polyplokotitas.html",
+        "snippet": "10 Βασικά Στοιχεία Πολυπλοκότητας Περιεχόμενα Κεφαλαίου 10.1 Εισαγωγή Μετασχηματισμοί και ..."
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.5",
+        "name": "Σπάρτη 2013 ΠΤΥΧΙΑΚΗ ΕΡΓΑΣΙΑ «ΤΟ ΠΡΟΒΛΗΜΑ ΤΟΥ ΠΛΑΝΟΔΙΟΥ ...",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=E16HYPhoaFCwxxSqoIXNver5afCVJKYnWEcqiznsjI4&v=1&r=http%3a%2f%2fdocplayer.gr%2f30368001-Sparti-2013-ptyhiaki-ergasia-to-provlima-toy-planodioy-politi-atei-kalamatas-parartima-spartis-kai-tmima-tehnologias-pliroforikis-tilepikoinonion.html&p=DevEx,5107.1",
+        "displayUrl": "docplayer.gr › 30368001-Sparti-2013-ptyhiaki-ergasia-to-provlima-toy...",
+        "snippet": "Σπάρτη 2013 ΠΤΥΧΙΑΚΗ ΕΡΓΑΣΙΑ «ΤΟ ΠΡΟΒΛΗΜΑ ΤΟΥ ΠΛΑΝΟΔΙΟΥ ΠΩΛΗΤΗ» ΑΤΕΙ ΚΑΛΑΜΑΤΑΣ - ΠΑΡΑΡΤΗΜΑ ..."
+      },
+      {
+        "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.6",
+        "name": "ΥΛΟΠΟΙΗΣΗ ΚΑΙ ΠΕΙΡΑΜΑΤΙΚΗ ΜΕΛΕΤΗ ΤΟΥ ΑΛΓΟΡΙΘΜΟΥ BREAK OUT ...",
+        "url": "http://www.bing.com/cr?IG=C19A63D73D854C0F9B844ED860A27225&CID=1929FC87F50B648834B4F604F45465E1&rd=1&h=UwVc_E0SP9VdOEr3baKBbdDOZJu4f8OloVAkU3b86BI&v=1&r=http%3a%2f%2fdocplayer.gr%2f46138110-Ylopoiisi-kai-peiramatiki-meleti-toy-algorithmoy-break-out.html&p=DevEx,5117.1",
+        "displayUrl": "docplayer.gr › 46138110-Ylopoiisi-kai-peiramatiki-meleti-toy...",
+        "snippet": "ΔΙΠΛΩΜΑΤΙΚΗ ΕΡΓΑΣΙΑ ΥΛΟΠΟΙΗΣΗ ΚΑΙ ΠΕΙΡΑΜΑΤΙΚΗ ΜΕΛΕΤΗ ΤΟΥ ΑΛΓΟΡΙΘΜΟΥ break out ΜΠΑΤΣΟΥ ΜΑΡΙΑ ..."
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.cognitive.microsoft.com/api/v5/#WebPages.6"
+          }
+        }
+      ]
+    }
+  }
+}
+

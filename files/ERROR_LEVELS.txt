@@ -1,0 +1,16 @@
+0   ok
+1   properties file /conf/crawl.properties found but InputStream is null, check permissions
+2   properties file /conf/crawl.properties not found
+3   I/O Exception while trying to load /conf/crawl.properties file
+4   I/O Exception while copying convert.exe to system temporary directory (%TEMP%)
+5   loading a null InputStream to extract convert.exe
+6   com.mysql.jdbc.Driver class not found, MySQL JDBC driver is not installed
+7   Database REPO not found
+8   TesseractOCR is not installed properly
+9   Xpdf PDFTOTEXT is not installed properly
+10  SQL Exception thrown while getting final results
+
+
+
+
+

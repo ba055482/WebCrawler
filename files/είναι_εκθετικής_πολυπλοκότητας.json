@@ -1,0 +1,166 @@
+﻿{
+  "_type": "SearchResponse",
+  "webPages": {
+    "webSearchUrl": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=SgHjQs8kD4Dtq10yrL5F4cmY9GG81ydnz8MeVxVn7Ls&v=1&r=https%3a%2f%2fwww.bing.com%2fsearch%3fq%3d%25cf%2584%25ce%25b5%25cf%2587%25ce%25bd%25ce%25b7%25cf%2584%25ce%25ae%2b%25ce%25bd%25ce%25bf%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25cf%258d%25ce%25bd%25ce%25b7&p=DevEx,5267.1",
+    "totalEstimatedMatches": 35200,
+    "value": [
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.0",
+        "name": "Τεχνητή νοημοσύνη - Βικιπαίδεια",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=_r5xbukiTdr46ll0twn4CUVNwwV4L3mFNIQ6kyfLPFI&v=1&r=https%3a%2f%2fel.wikipedia.org%2fwiki%2f%25CE%25A4%25CE%25B5%25CF%2587%25CE%25BD%25CE%25B7%25CF%2584%25CE%25AE_%25CE%25BD%25CE%25BF%25CE%25B7%25CE%25BC%25CE%25BF%25CF%2583%25CF%258D%25CE%25BD%25CE%25B7&p=DevEx,5063.1",
+        "displayUrl": "el.wikipedia.org › wiki › Τεχνητή_νοημοσύνη",
+        "snippet": "Ο όρος τεχνητή νοημοσύνη αναφέρεται στον κλάδο της πληροφορικής ο οποίος ασχολείται ...",
+        "dateLastCrawled": "2017-05-10T08:21:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.1",
+        "name": "Τεχνητή Νοημοσύνη - Γ Έκδοση",
+        "url": "http:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=M7VHkC0n1X8T09lH8Xm8Lxee-xJLDWhrb18QxrLqe8M&v=1&r=http%3a%2f%2faibook.csd.auth.gr%2f&p=DevEx,5075.1",
+        "displayUrl": "aibook.csd.auth.gr",
+        "snippet": "Τεχνητή Νοημοσύνη είναι ο τομέας της επιστήμης των υπολογιστών, που ...",
+        "dateLastCrawled": "2017-05-08T08:38:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.2",
+        "name": "Ρομπότ-Τεχνητή νοημοσύνη - Google Sites",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=ThgkgKcAUgkBhsmFRezGKrZkBCG12tDdhfVZwQc86zA&v=1&r=https%3a%2f%2fsites.google.com%2fsite%2ficsd11174%2f&p=DevEx,5087.1",
+        "displayUrl": "sites.google › site › icsd11174",
+        "snippet": "Η τεχνητή νοημοσύνη αποτελεί σημείο τομής μεταξύ πολλών πεδίων όπως της επιστήμης ...",
+        "dateLastCrawled": "2017-04-09T17:16:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.3",
+        "name": "τεχνητή νοημοσύνη | IIT Demokritos",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=LHVK3oiz57SvPrNCPIp02F6CA695Tb4rMdU-ZxEeDgo&v=1&r=https%3a%2f%2fwww.iit.demokritos.gr%2ftags%2f%25CF%2584%25CE%25B5%25CF%2587%25CE%25BD%25CE%25B7%25CF%2584%25CE%25AE-%25CE%25BD%25CE%25BF%25CE%25B7%25CE%25BC%25CE%25BF%25CF%2583%25CF%258D%25CE%25BD%25CE%25B7&p=DevEx,5098.1",
+        "displayUrl": "iit.demokritos.gr › tags › τεχνητή-νοημοσύνη",
+        "snippet": "Motivation Recent advances in computer systems and in communication technologies and protocols, as well as in service-oriented (SoA) and everything as a ...",
+        "dateLastCrawled": "2017-04-17T17:07:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.4",
+        "name": "Τεχνητή νοημοσύνη – Το MIT δημιούργησε ρομπότ που ...",
+        "url": "http:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=CMyDb8PwjWO6T7pb8n7C2rXGhxDwNzCqSZU_Aph_5kc&v=1&r=http%3a%2f%2fwww.laimitomos.com%2f2017%2f05%2f%25cf%2584%25ce%25b5%25cf%2587%25ce%25bd%25ce%25b7%25cf%2584%25ce%25ae-%25ce%25bd%25ce%25bf%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25cf%258d%25ce%25bd%25ce%25b7-%25cf%2584%25ce%25bf-mit-%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25b9%25ce%25bf%25cf%258d%25cf%2581%25ce%25b3%25ce%25b7%25cf%2583%25ce%25b5-%25cf%2581%25ce%25bf%2f&p=DevEx,5111.1",
+        "displayUrl": "Laimitomos › 2017 › 05 › τεχνητή-νοημοσύνη-το...",
+        "snippet": "Τεχνητή νοημοσύνη – Το mit δημιούργησε ρομπότ που εκπαιδεύει άλλα ρομπότ. 14 Μαΐου 2017, 11:17",
+        "dateLastCrawled": "2017-05-14T08:33:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.5",
+        "name": "Ρομπότ και τεχνητή νοημοσύνη - 2lykpolrobot",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=bMempZ3vwV5MBooF1I4PUK0T2LVk0SCFmN2dk6YL0oo&v=1&r=https%3a%2f%2fsites.google.com%2fsite%2f2lykpolrobot%2fomada-a%2frompot-kai-technete-noemosyne&p=DevEx,5123.1",
+        "displayUrl": "sites.google › site › 2lykpolrobot › ... › rompot-kai...",
+        "snippet": "Η τεχνητή νοημοσύνη αποτελεί σημείο τομής μεταξύ πολλών πεδίων όπως της επιστήμης ...",
+        "dateLastCrawled": "2017-04-08T19:50:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.6",
+        "name": "Τεχνητή Νοημοσύνη: Η επέλαση - science - Το Βήμα Online",
+        "url": "http:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=L63AhMYt2AOaT7eBmM-ygC9acXE3s7T7OHXeHVW4yK4&v=1&r=http%3a%2f%2fwww.tovima.gr%2fscience%2farticle%2f%3faid%3d878142&p=DevEx,5136.1",
+        "displayUrl": "tovima.gr › science › article › ?aid=878142",
+        "snippet": "Ξεκινήσαμε τον αιώνα με το «αδιέξοδο της κλιματικής αλλαγής», περάσαμε στο ...",
+        "dateLastCrawled": "2017-05-08T19:41:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.7",
+        "name": "Τεχνητή Νοημοσύνη στην Ιατρική",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=G1kcoQwoderyKw33uirNqbja32kMNh-dF6anHPqS2r4&v=1&r=https%3a%2f%2fwww.researchgate.net%2fpublication%2f200025694_Technete_Noemosyne_sten_Iatrike&p=DevEx,5148.1",
+        "displayUrl": "researchgate.net › publication › 200025694_Technete...",
+        "snippet": "Τεχνητή Νοημοσύνη στην Ιατρική on ResearchGate, the professional network for scientists.",
+        "dateLastCrawled": "2017-05-11T18:10:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.8",
+        "name": "Τεχνητή Νοημοσύνη | Science Wiki | Fandom powered by Wikia",
+        "url": "http:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=jNE7vXPzG6JSv3KZmmry5V4KhmGPDzZcmj5aOJnn4gw&v=1&r=http%3a%2f%2fel.science.wikia.com%2fwiki%2f%25CE%25A4%25CE%25B5%25CF%2587%25CE%25BD%25CE%25B7%25CF%2584%25CE%25AE_%25CE%259D%25CE%25BF%25CE%25B7%25CE%25BC%25CE%25BF%25CF%2583%25CF%258D%25CE%25BD%25CE%25B7&p=DevEx,5161.1",
+        "displayUrl": "el.science.wikia › wiki › Τεχνητή_Νοημοσύνη",
+        "snippet": "Τεχνητή Νοημοσύνη Artificial Intelligence ... Ετυμολογία Edit. Η ονομασία \"Τεχνητή\" σχετίζεται ...",
+        "dateLastCrawled": "2017-04-25T18:15:00"
+      },
+      {
+        "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.9",
+        "name": "Google.ai",
+        "url": "https:\/\/www.bing.com\/cr?IG=3E1B31EFFD0B42FF9EED24DA372F47F1&CID=2FC1818CDBA5688600E38B0BDA0D6971&rd=1&h=cI3uXOrD4rJpIdTQB8ZnTeccbvLHCYn4VEe_8x5ujEE&v=1&r=https%3a%2f%2fgoogle.ai%2f&p=DevEx,5172.1",
+        "displayUrl": "google.ai",
+        "snippet": "At Google, we think that AI can meaningfully improve people’s lives and that the biggest impact will come when everyone can access it. Learn more about ...",
+        "dateLastCrawled": "2017-05-17T18:48:00"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https:\/\/api.cognitive.microsoft.com\/api\/v5\/#WebPages.9"
+          }
+        }
+      ]
+    }
+  }
+}
