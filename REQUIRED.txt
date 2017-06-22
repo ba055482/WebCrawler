@@ -1,0 +1,20 @@
+To execute WebCrawler.jar the following steps are required:
+
+- Install JRE8
+
+- Install MySQL Database on default path (C:\Program Files (x86)\MySQL)
+
+- Install Xpdf suite (copy to wanted location)
+
+- Follow the instructions on /ext/README.XPDF to install Greek encoding on Xpdf
+
+- Install tesseract-OCR, specifying to also download data for Greek language support
+
+- Fill in crawl.properties file with the necessary configuration
+  Use double backslash "\\" for file system locations 
+  E.g. C:\\temp\\myfile.txt
+
+- Execute from CMD> java -jar WebCrawler.jar
+
+
+
